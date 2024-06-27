@@ -11,7 +11,7 @@ The project focuses on building Embedded C codes for power electronic projects i
 **Contents**
 -------------
 
-- [Chapter 1](ADC) **Analog to Digital Converter**
+- [Chapter 1](https://github.com/ArjunAmbat/Baremetal_STM32/tree/be8ffd623fb809dea0ad83f6c8df1cd8b9b64ac5/ADC) **Analog to Digital Converter**
   
   Hardware connection
   --------------------

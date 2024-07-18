@@ -23,6 +23,6 @@ The project focuses on building Embedded C codes for power electronic projects i
 - [Chapter 5](I2C) **Inter Integrated Circuit (I2C) Protocol**
 - [Chapter 6](UART) **Universal Asynchronous Receiver Transmitter (UART) Protocol**
 - [Chapter 7]() **Controller Area Network (CAN) Protocol**
-- [Chapter 8]() **Controller Area Network (CAN) Protocol**
+- [Chapter 8](IR_sensor_interface) **IR sensor interface**
 
 

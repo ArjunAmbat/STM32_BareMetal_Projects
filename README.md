@@ -24,6 +24,6 @@ The project focuses on building Embedded C codes for power electronic projects i
 - [Chapter 6](UART) **Universal Asynchronous Receiver Transmitter (UART) Protocol**
 - [Chapter 7]() **Controller Area Network (CAN) Protocol**
 - [Chapter 8](https://github.com/ArjunAmbat/IR_sensor_interface.git) **IR sensor interface**
-- [Chapter 9](https://github.com/ArjunAmbat/IR_sensor_interface.git) **Controller Area Network CAN**
+- [Chapter 9](https://github.com/ArjunAmbat/IR_sensor_interface.git) **(ontroller Area Network (CAN)**
 
 

@@ -18,7 +18,7 @@ The project focuses on building Embedded C codes for power electronic projects i
   
 - [Chapter 2](PWM) **Pulse Width Modulation**
 - [Chapter 3](PWM_ADC) **Combining ADC and PWM**
-- [Chapter 4]() **Serial Peripheral Interface (SPI) Protocol**
+- [Chapter 4](https://github.com/ArjunAmbat/SPI.git) **Serial Peripheral Interface (SPI) Protocol**
   - [Chapter 4.1.]() **SPI with TFT LCD Interface**
 - [Chapter 5](I2C) **Inter Integrated Circuit (I2C) Protocol**
 - [Chapter 6](UART) **Universal Asynchronous Receiver Transmitter (UART) Protocol**
